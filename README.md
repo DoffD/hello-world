@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 This is just another branch.
-Additional description are inserted. 
+Additional description inserted. 
